@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, 我是 Zitengy</h1>
   
-  <!-- 修复点：去掉了 align="left"，让它跟随父容器居中，视觉更平衡 -->
+
   <h3>
     CS Student from China 🇨🇳 | Aspiring AI Engineer 🤖 | Passionate about Deep Learning & LLMs.
   </h3>
@@ -11,7 +11,6 @@
      <br/>
      🌱 我目前正在学习: <b>AI Agent, LangChain, Fine-tuning</b>
      <br/>
-     <!-- 这里的 mailto 链接很棒，保留 -->
      📫 如何联系我: <a href="mailto:zitengy588@gmail.com">zitengy588@gmail.com</a>
   </p>
 </div>
@@ -40,7 +39,5 @@
   
   <br/>
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ZitengYAN&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zitengy's Stats" />
 
 </div>
