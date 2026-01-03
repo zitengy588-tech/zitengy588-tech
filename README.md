@@ -9,9 +9,9 @@
 
 <p align="left">
 </p>
-
+<hr/> <!-- 这是一条分割线 -->
 <div align="center">
-  <h3>🛠️ 语言与 AI 武器库 (Tech Stack)</h3>
+  <h3>🛠️ 语言与 AI 武器库 </h3>
   
   <!-- 第一行：核心语言 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
