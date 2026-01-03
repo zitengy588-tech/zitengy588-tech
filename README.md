@@ -41,8 +41,6 @@
   <br/>
   <br/>
 
-  <!-- 第四部分：GitHub 数据统计 (自动更新) -->
-  <!-- ⚠️注意：如果你的 GitHub 用户名不是 zitengy588-tech，请修改下面的 username=... -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zitengy588-tech&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zitengy's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZitengYAN&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zitengy's Stats" />
 
 </div>
