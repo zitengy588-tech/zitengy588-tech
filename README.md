@@ -2,15 +2,16 @@
   <h1>Hi 👋, 我是 Zitengy</h1>
 <h3 align="left">CS Student from China 🇨🇳 | Aspiring AI Engineer 🤖 | Passionate about Deep Learning & LLMs.</h3>
 
-- 🔭 我目前正在开发**垂直领域的RAG系统**
-
-- 🌱 我目前正在学习**AI、RAG、Agent**
-
-- 📫 如何联系我：**zitengy588@gmail.com**
-
-<p align="left">
-</p>
-<hr/> <!-- 这是一条分割线 -->
+  <!-- 这里去掉了列表符号，改用 <br/> 换行，看起来会很整齐 -->
+  <p>
+     🔭 我目前正在开发: <b>垂直领域的 RAG 系统</b>
+     <br/>
+     🌱 我目前正在学习: <b>AI Agent, LangChain, Fine-tuning</b>
+     <br/>
+     📫 如何联系我: <a href="mailto:zitengy588@gmail.com">zitengy588@gmail.com</a>
+  </p>
+</div>
+<hr/> 
 <div align="center">
   <h3>🛠️ 语言与 AI 武器库 </h3>
   
