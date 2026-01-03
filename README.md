@@ -1,5 +1,5 @@
-<h1 align="center">嗨👋，我是zitengy</h1>
-<h3 align="center">来自中国的AI开发者，充满热情</h3>
+<h1 align="left">嗨👋，我是zitengy</h1>
+<h3 align="left">来自中国的AI开发者，充满热情</h3>
 
 - 🔭 我目前正在开发**垂直领域的RAG系统**
 
