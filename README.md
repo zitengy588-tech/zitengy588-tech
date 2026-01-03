@@ -1,4 +1,5 @@
-<h1 align="left">嗨👋，我是zitengy</h1>
+<div align="center">
+  <h1>Hi 👋, 我是 Zitengy</h1>
 <h3 align="left">CS Student from China 🇨🇳 | Aspiring AI Engineer 🤖 | Passionate about Deep Learning & LLMs.</h3>
 
 - 🔭 我目前正在开发**垂直领域的RAG系统**
