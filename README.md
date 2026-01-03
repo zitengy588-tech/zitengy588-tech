@@ -7,7 +7,6 @@
 
 - 📫 如何联系我：**zitengy588@gmail.com**
 
-<h3 align="left">联系我：</h3>
 <p align="left">
 </p>
 
